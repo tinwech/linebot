@@ -43,7 +43,7 @@ def updateBeauty():
   
 def getBeauty():
   random.seed(datetime.now())
-  if random.randint(1, 10) != 1:
+  if random.random() > 0.1:
     return random.choice(antihorny_url)
 
   beauty = json.loads(blob.download_as_string(client=None))
