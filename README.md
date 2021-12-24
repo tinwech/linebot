@@ -19,5 +19,5 @@ https://lin.ee/mKQCepm
 ![Alt text](https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015456_LINE~2.jpg?raw=true "Title")
 - Get today's weather
 ![Alt text](https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015456_LINE.jpg?raw=true "Title")
-- Look up collocation of a volcabulary
+- Look up collocation of a vocabulary
 ![Alt text](https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015507_LINE.jpg?raw=true "Title")
