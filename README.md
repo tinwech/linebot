@@ -30,8 +30,8 @@ https://lin.ee/mKQCepm
 ## If you want to get started by yourself...
 
 ### Prerequisites
+These are the tools I used:
 - LINE messaging API
-- Google Cloud Platform
 - Dialogflow
 - Google Cloud Storage
 - Google Cloud Functions  
@@ -39,6 +39,4 @@ https://lin.ee/mKQCepm
 .  
 .  
 .  
-
-
 to be updated
