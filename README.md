@@ -10,7 +10,8 @@ https://lin.ee/mKQCepm
 ## Features  
 
 - Conversation
-![Alt text](https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015547_LINE.jpg? "Title")
+<img src="https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015547_LINE.jpg" width="100" height="100">
+![Alt text](https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015547_LINE.jpg?raw=true "Title")
 - Get memes
 ![Alt text](https://github.com/tinwech/linebot/blob/master/assets/Screenshot_20211224-015446_LINE.jpg?raw=true "Title")
 - Get fun videos
