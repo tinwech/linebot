@@ -1,1 +1,0 @@
-gcloud functions deploy linebot --entry-point handleWebhook --runtime python39 --trigger-http --allow-unauthenticated
