@@ -27,10 +27,3 @@ https://lin.ee/mKQCepm
 - [PTT](https://term.ptt.cc/)  
 
 
-## If you want to get started by yourself...
-
-### Environment Setup :
-- LINE messaging API
-- Dialogflow
-- Google Cloud Storage
-- Google Cloud Functions  
